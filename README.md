@@ -1,15 +1,5 @@
-## Sierpinski Triangle
+# Gallery
 
-[Wikipedia] (https://en.wikipedia.org/wiki/Sierpinski_triangle)
-
-![Sierpinski triangle 4112×4112] (sierpinski-triangle.png)
-
-## No-name 1
-
-[Wikipedia] (https://pl.wikipedia.org/wiki/Plik:Fraktal_banacha1.png)
-
-![No-name 1 4112×4112] (no-name-1.png)
-
-## No-name 2
-
-![No-name 2 4112×4112] (no-name-2.png)
+[![Sierpinski triangle 272×272] (sierpinski-triangle/small.png)] (sierpinski-triangle/view.md)
+[![No-name 1 272×272] (no-name-1/small.png)] (no-name-1/view.md)
+[![No-name 2 272×272] (no-name-2/small.png)] (no-name-2/view.md)
