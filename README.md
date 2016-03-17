@@ -9,3 +9,7 @@
 [Wikipedia] (https://pl.wikipedia.org/wiki/Plik:Fraktal_banacha1.png)
 
 ![No-name 1 4112×4112] (no-name-1.png)
+
+## No-name 2
+
+![No-name 2 4112×4112] (no-name-2.png)
